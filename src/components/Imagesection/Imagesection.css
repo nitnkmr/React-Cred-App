@@ -1,0 +1,60 @@
+.imagesection{
+    height: 800px;
+    position: relative;
+    overflow: hidden;
+    background-image: url(https://web-images.credcdn.in/_next/assets/images/home-page/video-bg.png);
+    background-size: cover;
+    background-position: right top;
+}
+.imagecontainer{
+    min-height: 100%;
+
+
+
+}
+
+.imagecontainer img{
+    width: 25%;
+    height: 100%;
+}
+
+
+
+
+.imageshow{
+    position: absolute;
+    bottom: 0px;
+    left: 50%;
+  }
+  
+  .showcase-mockup-1 {
+    opacity: 1;
+    transform: translate(-160%, 25%);
+    z-index: 98;
+  }
+  
+  .showcase-mockup-2 {
+    opacity: 1;
+    transform: translate(-105%, 15%);
+    z-index: 99;
+  }
+  .showcase-mockup-3 {
+    opacity: 1;
+    transform: translate(-50%, 5%);
+    z-index: 100;
+  }
+  .showcase-mockup-4 {
+    opacity: 1;
+    transform: translate(5%, 15%);
+    z-index: 99;
+  }
+  .showcase-mockup-5 {
+    opacity: 1;
+    transform: translate(60%, 25%);
+    z-index: 98;
+  }
+
+.imageconatiner img{
+    height: 100%;
+    
+}

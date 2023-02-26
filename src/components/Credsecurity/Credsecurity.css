@@ -1,0 +1,30 @@
+.cred-security {
+    background-image: url(https://web-images.credcdn.in/_next/assets/images/home-page/security-bg.jpg);
+    min-height: 900px;
+    background-position: center center;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  .securitycon{
+    margin: 2rem 5rem;
+    width: 50%;
+    height: 500px;
+  }
+
+  .securitycon h1{
+    font-size: 80px;
+    
+}
+.securitycon h2{
+    font-size: 30px;
+    padding-left:1rem;
+   
+}
+.securitycon p{
+    font-size: 20px;
+    padding:1rem;
+    padding-bottom: 2rem;
+
+}

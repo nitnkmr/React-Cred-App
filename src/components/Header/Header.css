@@ -1,0 +1,32 @@
+.navbar{
+    height: 20vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    /* position: sticky;
+    top: 0;
+    right: 0;
+    z-index: 1001; */
+    
+}
+  
+.logo{
+    width: 30%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.header-logo{
+    height: 66px;
+}
+
+.navcontent{
+    width: 40%;
+    height: 60%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
